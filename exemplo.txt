@@ -1,3 +1,3 @@
 Este é um aquivo de texto. Ele contém duas frases.
 
-Este arquivo foi editado.
+Este arquivo foi editado. Ele foi editado duas vezes
